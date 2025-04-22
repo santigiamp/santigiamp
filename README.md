@@ -1,55 +1,71 @@
-# 👋 ¡Hola! Soy Santino Giampietro  
 
-📊 **Data Analyst | Qlik Sense Developer**  
-🎯 **Especializado en modelado de datos, ETL y visualización**  
+<h1 align="center">👋 Welcome to my GitHub!</h1>
 
----
-
-## 🚀 Sobre mí  
-
-Soy un analista de datos con más de 2 años de experiencia en desarrollo y soporte de aplicaciones en Qlik Sense. Me apasiona la resolución de problemas y la optimización de procesos empresariales. Me considero una persona curiosa, con una mente analítica y lógica, siempre en búsqueda de nuevos conocimientos.  
-
-📍 Rosario, Santa Fe, Argentina  
-📧 santinogiampietro7@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/santino-giampietro)  
-🔗 [Portafolio en GitHub](https://github.com/santigiamp)  
+<p align="center">
+  <b>Santino Giampietro</b><br/>
+  Data Analyst & BI Developer → aspiring Data Engineer<br/>
+  Rosario, Argentina 🇦🇷
+</p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## 🚀 About Me
 
-- **Bases de Datos:** PostgreSQL, MySQL, Oracle 11g, SQL Server, MongoDB  
-- **Lenguajes de Programación:** SQL, PL/SQL, SQL Tuning, Python (OOP), Qlik Scripting, DAX  
-- **Herramientas BI y ETL:** Qlik Sense, Power BI, Excel, Power Pivot, Power Query, SSIS  
+🎯 I’m a former BI Developer actively transitioning into **Data Engineering**.  
+💡 I focus on building **scalable**, **automated**, and **business-driven** data solutions.  
+🔧 Currently training in modern tools such as:
 
----
+- ☁️ **AWS** (Glue, Redshift, S3, Serverless)
+- 🔧 **Terraform**
+- 🐍 **Python** (OOP + ETL scripting)
+- ⚙️ **Dagster**, **Apache Spark**, **Hadoop**
+- 🧠 **SQL & NoSQL** databases
 
-## 🎓 Educación y Certificaciones  
-
-🎓 **Dr. Francisco de Gurruchaga** (2005-2010)  
-📜 **Fundamentos avanzados de bases de datos** - UTN (2024)  
-📜 **Curso práctico de SQL en PostgreSQL** - Platzi (2023)  
-📜 **Modelado de Data Warehousing y OLAP** - Platzi (2023)  
-📜 **Tres cursos de Python** - Platzi (2022)  
+I aim to join a data engineering team where I can contribute from day one using best practices in versioning, modularity, testing, and monitoring — all while growing in distributed systems and cloud architecture.
 
 ---
 
-## 💼 Experiencia Profesional  
+## 🛠️ Tech Stack
 
-### **Data Analyst | Qlik Sense Developer** (2021-2023) - **SKI Tecnología**  
-✅ Soporte a una de las principales plantas frigoríficas de Argentina  
-✅ Desarrollo y mantenimiento de aplicaciones en Qlik Sense (ETL, modelado dimensional y visualización)  
-✅ Comunicación directa con clientes para interpretar requerimientos y traducirlos en dashboards efectivos  
-✅ Colaboración con el equipo de control de gestión en la definición de cálculos y validación de datos  
+| Category       | Tools & Skills |
+|----------------|----------------|
+| **Languages**  | `SQL`, `Python`, `PL/SQL`, `DAX`, `Qlik Scripting` |
+| **Databases**  | `PostgreSQL`, `MySQL`, `SQL Server`, `Oracle 11g`, `MongoDB` |
+| **BI Tools**   | `Qlik Sense`, `Power BI`, `Excel (Power Pivot / Query)` |
+| **Cloud/DevOps** | `AWS`, `Terraform`, `Docker`, `Git`, `GitHub` |
+
+---
+
+## 📚 Certifications & Learning
+
+- 🎓 **Data Engineering on AWS – Foundations (2025)** – AWS  
+- 📘 **Intro to Data Engineering (2025)** – DeepLearning.AI + AWS  
+- 🧩 **Advanced Database Fundamentals (2024)** – UTN  
+- 🏗 **Data Warehousing & OLAP Modeling (2023)** – Platzi  
+- 🛠 **Terraform Course (2025)** – Platzi  
 
 ---
 
-## 🌱 Siempre aprendiendo  
+## 💼 Work Experience
 
-Actualmente me estoy enfocando en mejorar mis habilidades en **ingeniería de datos, inteligencia artificial, ciberseguridad y análisis avanzado de datos**.  
+**SKI Tecnología** (2021–2023) – *Qlik Sense Developer*  
+🔹 Full-stack BI: ETL, dimensional modeling, data visualization  
+🔹 Direct client communication & requirement analysis  
+🔹 Support for one of Argentina’s top meat processing companies
 
-Si tienes alguna propuesta de colaboración o simplemente quieres charlar sobre datos, ¡contáctame! 🚀  
+**MPF** (2015–2018) – *Functional Analyst*  
+🔹 Process modeling, use cases, stakeholder mediation  
+🔹 Data analysis and regulatory compliance  
+🔹 Bridged technical/legal teams for digital case management
 
 ---
-  
-🔗 *Portafolio en GitHub:* [github.com/santigiamp](https://github.com/santigiamp)  
+
+## 🔗 Let's Connect
+
+- 📫 Email: **santinogiampietro7@gmail.com**  
+- 💼 LinkedIn: [santino-giampietro](https://www.linkedin.com/in/santino-giampietro)  
+- 💻 Portfolio: [github.com/santigiamp](https://github.com/santigiamp)
+
+---
+
+> 💬 *This repo contains experiments, case studies, and solutions designed to be clean, reusable, and scalable. Feel free to explore and connect!*
