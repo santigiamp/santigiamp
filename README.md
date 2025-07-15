@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Santino Giampietro</b><br/>
-  Data Analyst & BI Developer → aspiring Data Engineer<br/>
+  Data & AI Engineer | Cloud-native Analytics & Scalable ML Systems<br/>
   Rosario, Argentina 🇦🇷
 </p>
 
@@ -11,17 +11,20 @@
 
 ## 🚀 About Me
 
-🎯 I’m a former BI Developer actively transitioning into **Data Engineering**.  
-💡 I focus on building **scalable**, **automated**, and **business-driven** data solutions.  
-🔧 Currently training in modern tools such as:
+🎯 I'm a data engineer with hands-on experience designing and deploying **production-ready AI systems**.  
+🧠 I specialize in building **RAG architectures**, **vector databases**, and **serverless pipelines** using open-source and cloud-native tools.  
+🔁 My background in BI and analytics enables me to bridge business requirements with technical implementation, always aiming for **scalable**, **modular**, and **maintainable** solutions.
 
-- ☁️ **AWS** (Glue, Redshift, S3, Serverless)
-- 🔧 **Terraform**
-- 🐍 **Python** (OOP + ETL scripting)
-- ⚙️ **Dagster**, **Apache Spark**, **Hadoop**
-- 🧠 **SQL & NoSQL** databases
+My current stack includes:
 
-I aim to join a data engineering team where I can contribute from day one using best practices in versioning, modularity, testing, and monitoring — all while growing in distributed systems and cloud architecture.
+- ☁️ **AWS** (S3, EC2, Lambda, CloudWatch, IAM, VPC)
+- 🔧 **Terraform** (Infra-as-Code)
+- 🐍 **Python** (LangChain, Pydantic, FastAPI, asyncio, etc.)
+- ⚙️ **Vector DBs**: `Qdrant`, `FAISS`
+- 🧠 **RAG systems**: embeddings, retrieval pipelines, prompt orchestration
+- 🧪 Observability & Testing: `logging`, `pytest`, `pydantic`, `systemctl` for service orchestration
+
+I’m looking to join teams building **reliable data infrastructure**, where I can contribute with strong software engineering practices — from versioning and CI/CD to monitoring and performance tuning.
 
 ---
 
@@ -29,10 +32,11 @@ I aim to join a data engineering team where I can contribute from day one using 
 
 | Category       | Tools & Skills |
 |----------------|----------------|
-| **Languages**  | `SQL`, `Python`, `PL/SQL`, `DAX`, `Qlik Scripting` |
-| **Databases**  | `PostgreSQL`, `MySQL`, `SQL Server`, `Oracle 11g`, `MongoDB` |
-| **BI Tools**   | `Qlik Sense`, `Power BI`, `Excel (Power Pivot / Query)` |
-| **Cloud/DevOps** | `AWS`, `Terraform`, `Docker`, `Git`, `GitHub` |
+| **Languages**  | `Python`, `SQL`, `PL/SQL`, `DAX`, `Qlik Scripting` |
+| **Data/AI**    | `LangChain`, `Qdrant`, `OpenAI API`, `HuggingFace`, `Pandas`, `FastAPI`, `AsyncIO` |
+| **Cloud/DevOps** | `AWS`, `EC2`, `S3`, `Lambda`, `CloudWatch`, `Terraform`, `Docker`, `Git`, `GitHub` |
+| **Databases**  | `PostgreSQL`, `MongoDB`, `SQL Server`, `Oracle 11g`, `MySQL` |
+| **BI Tools**   | `Qlik Sense`, `Power BI`, `Excel Power Tools` |
 
 ---
 
@@ -40,23 +44,30 @@ I aim to join a data engineering team where I can contribute from day one using 
 
 - 🎓 **Data Engineering on AWS – Foundations (2025)** – AWS  
 - 📘 **Intro to Data Engineering (2025)** – DeepLearning.AI + AWS  
-- 🧩 **Advanced Database Fundamentals (2024)** – UTN  
+- 🧠 **LangChain & Vector Search (2025)** – Self-built RAG production system on EC2  
 - 🏗 **Data Warehousing & OLAP Modeling (2023)** – Platzi  
-- 🛠 **Terraform Course (2025)** – Platzi  
+- 🛠 **Terraform Infrastructure as Code (2025)** – Platzi  
+- 📊 **Advanced Database Fundamentals (2024)** – UTN
 
 ---
 
 ## 💼 Work Experience
 
-**SKI Tecnología** (2021–2023) – *Qlik Sense Developer*  
-🔹 Full-stack BI: ETL, dimensional modeling, data visualization  
-🔹 Direct client communication & requirement analysis  
-🔹 Support for one of Argentina’s top meat processing companies
+**RAG System Builder (2025)** – *Freelance / Personal Project*  
+🔹 Designed and deployed an end-to-end RAG architecture using `LangChain`, `Qdrant`, and `AWS EC2`  
+🔹 Developed custom embedding pipelines, retrieval logic, and prompt routing using `FastAPI` and `Python asyncio`  
+🔹 Implemented logging, monitoring, and service orchestration (`systemctl`) for reliable uptime  
+🔹 Focused on lightweight cloud ops within AWS Free Tier (cost-efficient infra decisions)
+
+**SKI Tecnología** (2021–2023) – *BI & Qlik Sense Developer*  
+🔹 Full-stack BI: ETL pipelines, dimensional modeling, dashboard development  
+🔹 Client-facing role for major players in Argentina’s meat industry  
+🔹 Excelled in requirements analysis, data governance, and business impact reporting
 
 **MPF** (2015–2018) – *Functional Analyst*  
-🔹 Process modeling, use cases, stakeholder mediation  
-🔹 Data analysis and regulatory compliance  
-🔹 Bridged technical/legal teams for digital case management
+🔹 Led process analysis, documentation, and cross-functional communication  
+🔹 Managed technical/legal alignment in regulatory systems  
+🔹 Built workflows for digital transformation in public administration
 
 ---
 
@@ -68,4 +79,4 @@ I aim to join a data engineering team where I can contribute from day one using 
 
 ---
 
-> 💬 *This repo contains experiments, case studies, and solutions designed to be clean, reusable, and scalable. Feel free to explore and connect!*
+> 💬 *This GitHub contains experiments, RAG pipelines, and cloud-native solutions — all built to be reproducible, modular, and cost-efficient. Let's build data systems that scale and learn.*
