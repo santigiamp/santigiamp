@@ -1,75 +1,72 @@
+<div align="center">
+  <h1>👋 ¡Hola, soy Santino Giampietro! 🚀</h1>
+  <p><strong>Ingeniero en Datos e Inteligencia Artificial</strong> con +3 años de experiencia convirtiendo necesidades de negocio en soluciones técnicas innovadoras. 💻 Vivo en la intersección entre <em>análisis funcional</em>, <em>arquitectura de datos</em> y <em>ingeniería de sistemas</em>.</p>
+</div>
 
-👋 Santino Giampietro
-Ingeniero en Datos e Inteligencia Artificial con más de tres años de experiencia traduciendo necesidades de negocio en soluciones técnicas. Me especializo en la intersección entre análisis funcional, arquitectura de datos e ingeniería de sistemas.
+---
 
-🎯 ¿Qué hago?
+## 🌟 ¿Qué hago?
 
-Tomo decisiones tecnológicas y de diseño desde las primeras etapas del desarrollo.
-Comprendo en profundidad los problemas antes de escribir código.
-Evalúo tecnologías, anticipo riesgos y diseño soluciones sostenibles.
+- 🛠️ **Tomo decisiones estratégicas** desde las primeras etapas de diseño y desarrollo.
+- 🔍 **Analizo problemas a fondo** antes de escribir una sola línea de código.
+- 📈 **Diseño soluciones sostenibles**, evaluando tecnologías y anticipando riesgos.
 
+---
 
-💡 ¿Cómo pienso?
+## 💭 Mi filosofía
 
-Hago las preguntas correctas antes de implementar.
-Investigo exhaustivamente y diseño con foco en el contexto y la necesidad real, no en la herramienta de moda.
-Apunto a la simplicidad estructural, evitando la sobreingeniería.
+> "Hacer las preguntas correctas es tan importante como encontrar las respuestas."
 
+- 🧠 Investigo exhaustivamente para entender el contexto y las necesidades reales.
+- 🎯 Priorizo la **simplicidad estructural** sobre la sobreingeniería.
+- 🔥 Me mantengo alejado de las modas tecnológicas, enfocándome en lo que realmente funciona.
 
-⚙️ Stack Técnico
+---
 
+## 🛠️ Stack Técnico
 
+| **Categoría**           | **Tecnologías**                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| **Lenguajes**           | 🐍 Python, 📜 SQL, 🔧 PL/SQL                                                    |
+| **Bases de Datos**      | 🗄️ PostgreSQL, SQL Server, Oracle, MongoDB, Qdrant                             |
+| **Cloud & DevOps**      | ☁️ AWS, 🏗️ Terraform, 🐳 Docker, 🔗 Git, GitHub                                |
+| **BI**                  | 📊 Qlik Sense, Power BI                                                        |
+| **Orquestación**        | ⚙️ Dagster, Airflow, dbt, Spark, Databricks                                    |
+| **IA Aplicada**         | 🤖 Sistemas RAG                                                               |
+| **IDEs**                | 💻 VSCode, Cursor, WindSurf + Claude Code                                      |
 
-Categoría
-Tecnologías
+---
 
+## 🙋‍♂️ Sobre mí
 
+- 🎓 Técnico en informática desde el secundario, **autodidacta** por pasión.
+- 🧩 Pensamiento **abstracto, sistemático y analítico**, con un ojo obsesivo por los detalles.
+- 📚 **Aprendizaje continuo** y amante de compartir conocimiento.
+- 🤝 Trabajo genial en equipo, pero también brillo con autonomía relativa.
 
-Lenguajes
-Python, SQL, PL/SQL
+### 💼 Roles que me entusiasman:
+- 🏛️ Arquitecto de Soluciones
+- 📊 Arquitecto de Datos
+- 🧑‍💻 Ingeniero de Datos e IA
 
+---
 
-Bases de Datos
-PostgreSQL, SQL Server, Oracle, MongoDB, Qdrant
+## 📬 ¡Conectemos!
 
+<div align="center">
+  <a href="mailto:santinogiampietro7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-santinogiampietro7@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/tu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</div>
 
-Cloud & DevOps
-AWS, Terraform, Docker, Git, GitHub
+---
 
-
-BI
-Qlik Sense, Power BI
-
-
-Orquestación
-Dagster, Airflow, dbt, Spark, Databricks
-
-
-IA Aplicada
-Sistemas RAG
-
-
-IDEs
-VSCode, Cursor, WindSurf + Claude Code
-
-
-
-📍 Sobre Mí
-
-Técnico en informática desde el secundario, con formación principalmente autodidacta.
-Pensamiento abstracto, sistemático y analítico, con gran atención al detalle.
-Comprometido con el aprendizaje continuo y apasionado por compartir conocimiento.
-Cómodo trabajando en equipo o con autonomía relativa.
-
-Roles de interés:
-
-Arquitecto de Soluciones
-Arquitecto de Datos
-Ingeniero de Datos e IA
-
-
-📫 Contacto
-
-Email: santinogiampietro7@gmail.com
-LinkedIn: Perfil de LinkedIn
-GitHub: Perfil de GitHub
+<div align="center">
+  <p>✨ <em>Construyamos algo increíble juntos.</em> ✨</p>
+</div>
