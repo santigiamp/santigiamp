@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 ¡Hola, soy Santino Giampietro! 🚀</h1>
-  <p><strong>Ingeniero en Datos e Inteligencia Artificial</strong> con +3 años de experiencia convirtiendo necesidades de negocio en soluciones técnicas innovadoras. 💻 Vivo en la intersección entre <em>análisis funcional</em>, <em>arquitectura de datos</em> y <em>ingeniería de sistemas</em>.</p>
+  <p><strong>Ingeniero en Datos e Inteligencia Artificial</strong> con +3 años de experiencia convirtiendo necesidades de negocio en soluciones técnicas. 💻 Vivo en la intersección entre <em>análisis funcional</em>, <em>arquitectura de datos</em> y <em>ingeniería de sistemas</em>.</p>
 </div>
 
 ---
